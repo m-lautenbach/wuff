@@ -1,0 +1,9 @@
+{
+  "name": "wuff",
+  "version": "0.0.1",
+  "description": "Spielkiste für Geolokation",
+  "author": "Markus Lautenbach <markus.lautenbach@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
